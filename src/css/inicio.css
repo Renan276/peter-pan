@@ -1,0 +1,18 @@
+main {
+    min-height: 100vh;
+    width:100vw;
+    max-width: 100%;
+    background-image: url("../img/erw84riywr3c4r1xic0e.jpg"); 
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+main>div{
+    text-align: center;
+    color: white;
+    background-color: rgb (0,0,0,0.7);
+    padding: 30px;
+    border-radius: 10px;
+}
